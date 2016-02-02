@@ -1,0 +1,6 @@
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica5\bin\Debug\Practica5.exe.config
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica5\bin\Debug\Practica5.exe
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica5\bin\Debug\Practica5.pdb
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica5\obj\Debug\Practica5.exe
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica5\obj\Debug\Practica5.pdb
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica5\obj\Debug\Practica5.csprojResolveAssemblyReference.cache
